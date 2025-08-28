@@ -14,12 +14,19 @@ H-IQL extends [Implicit Q-Learning (IQL)](https://arxiv.org/abs/2110.06169) by i
 
 ---
 
-If you found this useful, you can cite the original paper:
+## 📖 Citation
+
+If you find this work useful, please cite:
+
+```bibtex
 @misc{H-IQL2025,
-  title={Offline Reinforcement Learning For Evaluating Football Players},
-  author={Nordin, Rasmus},
-  year={2025}
+  title   = {Offline Reinforcement Learning For Evaluating Football Players},
+  author  = {Nordin, Rasmus},
+  year    = {2025},
+  note    = {Master's Thesis, Halmstad University}
 }
+```
+--
 
 ## Installation
 Clone the repository and install dependencies:

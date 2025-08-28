@@ -14,7 +14,7 @@ H-IQL extends [Implicit Q-Learning (IQL)](https://arxiv.org/abs/2110.06169) by i
 
 ---
 
-## 📖 Citation
+## Citation
 
 If you find this work useful, please cite:
 
@@ -26,12 +26,13 @@ If you find this work useful, please cite:
   note    = {Master's Thesis, Halmstad University}
 }
 ```
---
+---
 
 ## Installation
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/MakingNoSense/H-IQL.git
-cd H-IQL
+git clone https://github.com/MakingNoSense/H-IQL-Hybrid-Implicit-Q-Learning.git
+cd H-IQL-Hybrid-Implicit-Q-Learning
 pip install -r requirements.txt
+

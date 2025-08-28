@@ -1,0 +1,18 @@
+d3rlpy==2.8.1
+D4RL @ git+https://github.com/Farama-Foundation/D4RL@89141a689b0353b0dac3da5cba60da4b1b16254d
+gym==0.26.2
+gym-notices==0.0.8
+gymnasium==1.0.0
+gymnasium-robotics==1.3.1
+joblib==1.4.2
+matplotlib==3.10.1
+minari==0.5.3
+mujoco==3.1.6
+numpy==2.2.5
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.15.2
+torch==2.7.0
+tqdm==4.67.1
+
+
